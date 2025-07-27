@@ -25,3 +25,8 @@ Build a simple but powerful image tagging system that can identify images as cat
 ```bash
 pip install -r requirements.txt
 # Shadowfox
+# Setup
+pip install -r requirements.txt
+
+# Run the notebook
+jupyter notebook notebook/Image_Tagging_CNN_Vasavi.ipynb
